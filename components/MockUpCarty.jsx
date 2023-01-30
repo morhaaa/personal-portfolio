@@ -29,7 +29,7 @@ const MockUpCarty = () => {
             Carty.
           </div>
           <p className="text-gray-800 py-2 lg:py-6 font-semibold">
-            A template of a multipage bank website made with NextJs and Tailwind
+            A mockup of a multipage bank website made with NextJs and Tailwind
           </p>
           <div className="text-gray-800 py-2 lg:py-5">
             <div className="flex w-full justify-evenly italic text-xs text-slate-800">

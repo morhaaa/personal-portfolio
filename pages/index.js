@@ -5,7 +5,6 @@ import { Parallax } from "react-scroll-parallax";
 import Project from "../components/Project";
 import { useInView } from "react-intersection-observer";
 import Contact from "../components/Contact";
-import Loader from "../components/Loader";
 
 export default function Home() {
   const { ref, inView } = useInView({ threshold: 0.85 });

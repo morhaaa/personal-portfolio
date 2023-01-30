@@ -29,7 +29,7 @@ const MockUpStore = () => {
         >
           <p className="text-3xl font-bold text-center">STORE</p>
           <p className="text-gray-800 py-2 lg:py-5 font-semibold">
-            A e-commerce web site made by NextJs that allows you to choose any
+            An E-commerce web site made by NextJs that allows you to choose any
             type of clothes you want. The data of this web site comes from an
             external Strapi database.
           </p>
