@@ -2,7 +2,7 @@ import Image from "next/image";
 
 import { BsGithub } from "react-icons/bs";
 import React, { useState } from "react";
-import MockStore from "../public/store.png";
+import MockStore from "../public/Store.png";
 
 const MockUpStore = () => {
   const [isHover, setIsHover] = useState(false);
