@@ -10,7 +10,7 @@ export default function Home() {
   const { ref, inView } = useInView({ threshold: 0.85 });
   return (
     <>
-      <main className="relative  bg-gradient-to-br from-gray-200 to-gray-300">
+      <main className="relative overflow-x-hidden w-screen bg-gradient-to-br from-gray-200 to-gray-300">
         <div className="fixed z-50">
           <Header />
         </div>

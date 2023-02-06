@@ -5,7 +5,7 @@ import MockUpStore from "./MockUpStore";
 import MockUpCrypto from "./MockUpCrypto";
 
 const Project = () => {
-  const { ref: ref1, inView: view1 } = useInView({ threshold: 0.45 });
+  const { ref: ref1, inView: view1 } = useInView({ threshold: 0.25 });
   const { ref: ref2, inView: view2 } = useInView({ threshold: 0.16 });
 
   return (
