@@ -228,8 +228,7 @@ const Intro = () => {
           className="text-center flex flex-col"
         >
           <p className="font-extrabold text-lg md:text-2xl font-extendedB text-transparent bg-clip-text bg-gradient-to-r from-gray-600 to-gray-800 ">
-            SELF—TAUGHT
-            <br /> FRONTEND DEVELOPER
+            FRONTEND DEVELOPER
           </p>
           <div className="text-md md:text-lg  font-bold text-gray-700">
             <p> Currently Based in:</p>

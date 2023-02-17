@@ -43,14 +43,14 @@ const AboutMe = () => {
                 Hi Again!
               </h1>
               <p className="text-sm md:text-md lg:text-lg py-3 font-semibold text-gray-700">
-                I am a self-taught front-end developer with a strong motivation
-                to learn and grow in in my field. After acquiring the necessary
-                programming knowledge through self-study and personal projects,
-                I am ready to start as a front-end developer. With a solid basis
-                of web technologies, including HTML, CSS, and JavaScript, I am
-                equipped to provide companies and projects with intuitive and
-                high-quality user experiences. I am ready to start my first job
-                and continue growing as a developer.
+                I am a highly skilled junior front-end developer with a solid
+                foundation in HTML, CSS, and JavaScript. Experienced in
+                developing responsive websites and web applications using modern
+                front-end frameworks such as React and NextJS. Passionate about
+                learning new technologies and eager to apply knowledge to
+                real-world projects. Looking to leverage my skills and
+                experience to contribute to a dynamic and innovative development
+                team.
                 <br />
                 {""}
                 <br /> Other than coding, I spend my free time doing Crossfit,
